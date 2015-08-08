@@ -6,3 +6,4 @@
 /Csrm.Web/obj
 /Csrm.Web/*.user
 /.nuget
+/*.suo
